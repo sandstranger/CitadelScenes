@@ -1,0 +1,1 @@
+Game Data for citacel android port https://github.com/sandstranger/Citadel.git
